@@ -2,7 +2,7 @@
 
 I am a data scientist currently working towards a master’s degree in statistics at the London School of Economics.
 
-I have experience in statistical modeling, deep learning, and survey research. I like working on hard problems.
+I have experience in statistical modeling, deep learning, and cloud computing. I like working on hard problems.
 
 I also enjoy running, hiking, and film photography.
 
