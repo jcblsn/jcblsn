@@ -1,10 +1,15 @@
-## Hello
+# Hi, I'm Jacob ☀️
 
-I am a data scientist currently working towards a master’s degree in statistics at the London School of Economics.
+### About me
 
-I have experience in statistical modeling, deep learning, and cloud computing. I like working on hard problems.
+I am a data scientist currently working towards a master’s degree in statistics at the London School of Economics. I have experience in statistical modeling, deep learning, and cloud computing.
 
-I also enjoy running, hiking, and film photography.
+### Links
+
+- [Resume](https://jacobeliason.com/files/jacob-eliason-resume.pdf)
+- [Blog](https://jacobeliason.com/blog.html)
+- [LinkedIn](https://www.linkedin.com/in/jacobzeliason/)
+- [Twitter](https://twitter.com/jaco_bel)
 
 <!---
 eliason-j/eliason-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
