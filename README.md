@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a data scientist currently working towards a master’s degree in statistics at the London School of Economics. I have experience in statistical modeling, deep learning, and cloud computing.
+I'm a data scientist with expertise in statistics, deep learning, and cloud computing.
 
 ### Links
 
